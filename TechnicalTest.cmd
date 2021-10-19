@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\ToscaCommander\TcShell.exe" -workspace "C:\Tosca_Projects\Tosca_Workspaces\RMS_Test\RMS_Test.tws" -login "Admin" "" "C:\Temp\TechnicalTest.tcs"

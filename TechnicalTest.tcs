@@ -1,0 +1,13 @@
+//navigate to the DRIVES execution list folder
+jumptonode "/Technical Test Assessment/Execution/Execution List/ExecutionLists/Execution List for  Jupiter Toys"
+
+//start execution list
+Task "Run"
+
+//save results
+save
+
+//check in all
+//checkinall
+//exit
+
